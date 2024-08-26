@@ -1,0 +1,26 @@
+.form {
+    
+    border-color: aqua;
+    
+    border-radius: 32px;
+    background-color: #ecf7fb;
+    padding-top: 1cm;
+    padding-bottom: 2cm;
+}
+img{
+    padding-left: 4.5cm;
+}
+body{
+    background-color: #39a9db;
+    padding-top: 3cm;
+    padding-left: 12cm;
+    padding-right: 12cm;
+    padding-bottom: 5cm;
+    
+    
+}
+div{
+    text-align: center;
+}
+
+
